@@ -3,7 +3,6 @@
 - 🔭 Atualmente procuro uma vaga como Desenvolvedor de Software Junior
 ou Estágiario na area de TI
 - 🌱 Estudando HTML, CSS, JS, PYTHON
-- 😄 Pronouns: ele/dele
  
  <div>
   <a href="https://github.com/ArthurBarros-hub">
