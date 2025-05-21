@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente, na busca de uma oportunidade como Desenvolvedor de Software Júnior
    ou Estagiário na área de TI
-- 🌱 Estudando: HTML, CSS, JavaScript e Python
+- 🌱 Estudando: HTML, CSS, JavaScript, Python e Android Studio
 
 ---
 
