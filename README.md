@@ -1,4 +1,4 @@
-## 👋 Olá, eu sou o Arthur Barros!
+## 👋 Olá, eu sou o Arthur Mansur Barros!
 
 - 🔭 Atualmente, na busca de uma oportunidade como Desenvolvedor de Software Júnior
    ou Estagiário na área de TI
