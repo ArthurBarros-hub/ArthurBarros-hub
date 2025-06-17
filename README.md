@@ -1,8 +1,8 @@
 ## 👋 Olá, eu sou o Arthur Mansur Barros!
 
-- 🔭 Atualmente, na busca de uma oportunidade como Desenvolvedor de Software Júnior
-   ou Estagiário na área de TI
-- 🌱 Estudando: HTML, CSS, JavaScript, Python e Android Studio
+- Minha dedicação à área de desenvolvimento de software, com foco especial no Frontend, é consolidada através da minha formação em Técnico em Informática pelo Instituto Federal de São Paulo (IFSP). Essa base técnica rigorosa me proporcionou uma compreensão aprofundada dos fundamentos da computação, lógica de programação e arquitetura de sistemas, que se traduzem em uma abordagem estruturada para o desenvolvimento web.
+
+Atualmente, estou em busca da minha primeira oportunidade como Desenvolvedor de Software Júnior ou Estagiário em Engenharia de Software/TI. Meu objetivo é aplicar e expandir minhas competências técnicas na construção de interfaces de usuário que não apenas atendam aos requisitos funcionais, mas que também ofereçam excelência em usabilidade, performance e acessibilidade.
 
 ---
 
