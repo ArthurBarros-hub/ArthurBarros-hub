@@ -18,12 +18,6 @@ Atualmente, estou em busca da minha primeira oportunidade como Desenvolvedor de 
 
 ---
 
-## 📊 GitHub Stats
-
-<a href="https://github.com/ArthurBarros-hub">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArthurBarros-hub&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-</a>
-
 ---
 
 ## 🌐 Onde me encontrar
