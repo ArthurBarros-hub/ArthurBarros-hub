@@ -18,8 +18,6 @@ Atualmente, estou em busca da minha primeira oportunidade como Desenvolvedor de 
 
 ---
 
----
-
 ## 🌐 Onde me encontrar
 
 <div>
