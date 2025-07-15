@@ -1,6 +1,6 @@
 ## 👋 Olá, eu sou o Arthur Mansur Barros!
 
- Minha dedicação à área de desenvolvimento de software, com foco especial no Frontend, é consolidada através da minha formação em Técnico em Informática pelo Instituto Federal de São Paulo (IFSP). Essa base técnica rigorosa me proporcionou uma compreensão aprofundada dos fundamentos da computação, lógica de programação e arquitetura de sistemas, que se traduzem em uma abordagem estruturada para o desenvolvimento web.
+ Minha dedicação à área de desenvolvimento de software é consolidada através da minha formação em Técnico em Informática pelo Instituto Federal de São Paulo (IFSP). Essa base técnica rigorosa me proporcionou uma compreensão aprofundada dos fundamentos da computação, lógica de programação e arquitetura de sistemas, que se traduzem em uma abordagem estruturada para o desenvolvimento web.
 
 Atualmente, estou em busca da minha primeira oportunidade como Desenvolvedor de Software Júnior ou Estagiário em Engenharia de Software/TI. Meu objetivo é aplicar e expandir minhas competências técnicas na construção de interfaces de usuário que não apenas atendam aos requisitos funcionais, mas que também ofereçam excelência em usabilidade, performance e acessibilidade.
 
@@ -15,6 +15,7 @@ Atualmente, estou em busca da minha primeira oportunidade como Desenvolvedor de 
   <img align="center" alt="Arthur-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Arthur-AndroidStudio" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg">
   <img align="center" alt="Arthur-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="Arthur-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
 
 ---
